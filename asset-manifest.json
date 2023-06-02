@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/loginapp/static/css/main.01da3e7b.css",
+    "main.js": "/loginapp/static/js/main.1a00438f.js",
+    "static/media/project1.png": "/loginapp/static/media/project1.9940670237eb3b36abd2.png",
+    "index.html": "/loginapp/index.html",
+    "main.01da3e7b.css.map": "/loginapp/static/css/main.01da3e7b.css.map",
+    "main.1a00438f.js.map": "/loginapp/static/js/main.1a00438f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01da3e7b.css",
+    "static/js/main.1a00438f.js"
+  ]
+}
